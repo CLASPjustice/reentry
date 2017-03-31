@@ -2,6 +2,12 @@
 
 An on-going archive of reentry studies. Includes international examples, as well.
 
+# Authors
+
+Created by [@billimarie](https://github.com/billimarie) for [@CLASPjustice](https://github.com/CLASPjustice).
+
+# Table of Contents
+
 - [General](#general)
 - [Family](#family)
 - [Public Support](#public-support)
